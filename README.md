@@ -7,8 +7,9 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 
 * Windows 7 64 bits
 * Git for Windows
-* Admin de son poste
-* google chrome
+* Administrateur windows de son poste
+* Google chrome
+* Powershell
 
 <hr>
 
