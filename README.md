@@ -13,7 +13,7 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 
 <hr>
 
-#### Pour procéder à l'installation, veuillez éxécuter les commandes suivantes: ####
+### Installation ###
 **Ouvrez un terminal powershell en mode administrateur**
 <pre>git clone https://github.com/VilledeMontreal/bootstrap-choco-windows</pre>
 <pre>cd bootstrap-choco-windows</pre>
@@ -34,5 +34,5 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 * Ouvrir google chrome et afficher l'application
 <hr>
 
-#### Pour désinstaller ####
+### Désinstallation ###
 <pre>.\bootstrap-vdm-uninstall.ps1</pre>
