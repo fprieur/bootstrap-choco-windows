@@ -1,7 +1,7 @@
 # bootstrap-choco-windows
 
 ### Description ###
-Ce dépôt est un utilitaire [chocolatey](https://chocolatey.org/) pour installer automatiquement les pré-requis nécessairement pour le développement local avec nodejs et docker. Il utilise des scripts powershell avec chocolatey pour faciliter et accéler ces tâches.
+Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automatiquement les pré-requis nécessairement pour le développement local avec nodejs et docker. Il utilise des scripts powershell avec chocolatey pour faciliter et accéler ces tâches.
 
 #### Pré-requis ####
 
