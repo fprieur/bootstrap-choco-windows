@@ -25,7 +25,7 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 * docker-machine
 * nodejs et npm
 
-**De plus le script d'installer va éxécuter les tâches suivantes:**
+**De plus le script va éxécuter les tâches suivantes:**
 * Création d'une machine virtuelle boot2docker
 * "Binder" le terminal powershell avec la nouvelle vm préalablement créé
 * Télécharger l'image hello-world de la ville de montréal
