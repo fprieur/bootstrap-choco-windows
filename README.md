@@ -24,6 +24,10 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 * docker
 * docker-compose
 * docker-machine
+* Visual studio code
+* jdk(Java Developpement Kit)
+* Eclipse
+* Sublime Text
 * nodejs et npm
 
 **De plus le script va éxécuter les tâches suivantes:**
