@@ -24,11 +24,12 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 * docker
 * docker-compose
 * docker-machine
+* Oracle VM VirtualBox
 * Visual studio code
 * jdk(Java Developpement Kit)
 * Eclipse
+* Netbeans
 * Sublime Text
-* nodejs et npm
 
 **De plus le script va éxécuter les tâches suivantes:**
 * Création d'une machine virtuelle boot2docker
