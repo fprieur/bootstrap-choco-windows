@@ -30,6 +30,7 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 * Eclipse
 * Netbeans
 * Sublime Text
+* Nodejs et npm
 
 **De plus le script va éxécuter les tâches suivantes:**
 * Création d'une machine virtuelle boot2docker
