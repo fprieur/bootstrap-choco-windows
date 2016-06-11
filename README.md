@@ -5,7 +5,7 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 
 #### Pré-requis ####
 
-* Windows 7 64 bits
+* Windows 7 64bits
 * Git for Windows
 * Administrateur windows de son poste
 * Google chrome
