@@ -44,3 +44,5 @@ Ce dépôt utilise [chocolatey](https://chocolatey.org/) pour installer automati
 
 ### Désinstallation ###
 <pre>.\bootstrap-vdm-uninstall.ps1</pre>
+
+[Encrypter des valeurs avec travis-ci](https://docs.travis-ci.com/user/encryption-keys/)
